@@ -1,0 +1,38 @@
+
+body {
+    margin: 0;
+    background-color: #f5f5f5;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-vazirmatn: Vazirmatn;
+    
+    /* font sizes */
+    --font-size-xl: 1.25rem;
+    
+    /* Colors */
+    --color-black: #000;
+    
+
+    /* fonts */
+    --font-inter: Inter;
+    
+    /* font sizes */
+    --font-size-2xs: 0.688rem;
+    --font-size-mini: 0.938rem;
+    
+    /* Colors */
+    --color-black: #000;
+    --color-whitesmoke: #f5f5f5;
+    --color-white: #fff;
+    
+    /* Border radiuses */
+    --br-11xs: 2px;
+    --br-mid: 17px;
+
+    
+}
